@@ -4,7 +4,7 @@
 
 <h1>replit link</h1>
 
-<h1><a href="https://replit.com/@DeepKDk/VC-JOINER#main.py">REPLIT</a></h1>
+<h1><a href="https://replit.com/@DeepKDk/VC-JOINER#main.py">replit</a></h1>
 
 <p align="center">
 </p
